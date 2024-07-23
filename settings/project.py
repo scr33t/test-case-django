@@ -3,8 +3,7 @@
 # ****************************************************************
 # PROJECT
 
-PROJECT_NAME = 'itcase_django_test_task'
+PROJECT_NAME = "itcase_django_test_task"
 
 # ****************************************************************
 # ITCASE
-

@@ -3,4 +3,4 @@
 # Django RQ
 # https://github.com/rq/django-rq
 
-RQ_QUEUES = {'default': {'USE_REDIS_CACHE': 'queue'}}
+RQ_QUEUES = {"default": {"USE_REDIS_CACHE": "queue"}}
